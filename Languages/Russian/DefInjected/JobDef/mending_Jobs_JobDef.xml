@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Defs\JobDefs\mending_Jobs.xml -->
+  <!-- EN: Mending TargetB. -->
+  <Mend.reportString>Ремонт TargetB.</Mend.reportString>
+  <!-- EN: Recycling TargetB. -->
+  <Recycle.reportString>Переработка TargetB.</Recycle.reportString>
+</LanguageData>

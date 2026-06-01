@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Defs\ResearchProjectDefs\ResearchProjects.xml -->
+  <!-- EN: Mending -->
+  <Mending.label>Ремонт</Mending.label>
+  <!-- EN: Mend and repair damaged items. -->
+  <Mending.description>Позволяет чинить и ремонтировать повреждённые предметы.</Mending.description>
+</LanguageData>

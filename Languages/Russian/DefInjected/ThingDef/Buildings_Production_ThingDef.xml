@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Defs\ThingDefs\Buildings_Production.xml -->
+  <!-- EN: mending workbench -->
+  <TableMending.label>ремонтный верстак</TableMending.label>
+  <!-- EN: A workbench equipped with all the tools required to mend and repair damaged items. Requires power and consumes mending kits. Mending kits can be made in the tailoring benches. -->
+  <TableMending.description>Верстак, оснащённый всеми инструментами для ремонта повреждённых предметов. Требует электричества и расходует ремонтные наборы. Ремонтные наборы можно изготовить на швейных верстаках.</TableMending.description>
+</LanguageData>

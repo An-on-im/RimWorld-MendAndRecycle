@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Defs\ThingDefs\Items_Resource_Manufactured.xml -->
+  <!-- EN: mending kit -->
+  <MendingKit.label>ремонтный набор</MendingKit.label>
+  <!-- EN: Miscellaneous cloth, bits and parts. Necessary for repairing weapons and mending apparel. -->
+  <MendingKit.description>Различные тряпки, детали и расходники. Необходимы для ремонта оружия и починки одежды.</MendingKit.description>
+</LanguageData>

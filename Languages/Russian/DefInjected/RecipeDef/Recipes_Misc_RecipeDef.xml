@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Defs\RecipeDefs\Recipes_Misc.xml -->
+  <!-- EN: mend simple apparel -->
+  <MendSimpleApparel.label>починить простую одежду</MendSimpleApparel.label>
+  <!-- EN: Mend simple apparel. -->
+  <MendSimpleApparel.description>Ремонтирует простую одежду.</MendSimpleApparel.description>
+  <!-- EN: Mending. -->
+  <MendSimpleApparel.jobString>Ремонт.</MendSimpleApparel.jobString>
+  <!-- EN: mend complex apparel -->
+  <MendComplexApparel.label>починить сложную одежду</MendComplexApparel.label>
+  <!-- EN: Mend armor. -->
+  <MendComplexApparel.description>Ремонтирует броню.</MendComplexApparel.description>
+  <!-- EN: Mending. -->
+  <MendComplexApparel.jobString>Ремонт.</MendComplexApparel.jobString>
+  <!-- EN: repair simple weapon -->
+  <MendSimpleWeapon.label>отремонтировать простое оружие</MendSimpleWeapon.label>
+  <!-- EN: Repair weapon. -->
+  <MendSimpleWeapon.description>Ремонтирует оружие.</MendSimpleWeapon.description>
+  <!-- EN: Repairing. -->
+  <MendSimpleWeapon.jobString>Ремонт.</MendSimpleWeapon.jobString>
+  <!-- EN: repair complex weapon -->
+  <MendComplexWeapon.label>отремонтировать сложное оружие</MendComplexWeapon.label>
+  <!-- EN: Repair weapon. -->
+  <MendComplexWeapon.description>Ремонтирует оружие.</MendComplexWeapon.description>
+  <!-- EN: Repairing. -->
+  <MendComplexWeapon.jobString>Ремонт.</MendComplexWeapon.jobString>
+  <!-- EN: recycle apparel -->
+  <RecycleApparel.label>переработать одежду</RecycleApparel.label>
+  <!-- EN: Recycle apparel into their basic components. -->
+  <RecycleApparel.description>Перерабатывает одежду в базовые компоненты.</RecycleApparel.description>
+  <!-- EN: Recycling. -->
+  <RecycleApparel.jobString>Переработка.</RecycleApparel.jobString>
+</LanguageData>

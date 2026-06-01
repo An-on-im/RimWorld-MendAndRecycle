@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Defs\RecipeDefs\Recipes_Production.xml -->
+  <!-- EN: make mending kits -->
+  <MakeMendingKit.label>сделать ремонтные наборы</MakeMendingKit.label>
+  <!-- EN: Crafts mending kits from materials. Produces enough to re-stock the mending table. -->
+  <MakeMendingKit.description>Изготавливает ремонтные наборы из материалов. Производит достаточно для пополнения ремонтного верстака.</MakeMendingKit.description>
+  <!-- EN: Crafting mending kit. -->
+  <MakeMendingKit.jobString>Изготовление ремонтного набора.</MakeMendingKit.jobString>
+</LanguageData>

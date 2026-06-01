@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Defs\WorkGiverDefs\mending_WorkGivers.xml -->
+  <!-- EN: mend -->
+  <DoBillsMending.label>ремонтировать</DoBillsMending.label>
+  <!-- EN: mend -->
+  <DoBillsMending.verb>ремонтировать</DoBillsMending.verb>
+  <!-- EN: mending -->
+  <DoBillsMending.gerund>ремонт</DoBillsMending.gerund>
+  <!-- EN: make apparel -->
+  <DoBillsMakeApparel.label>шить одежду</DoBillsMakeApparel.label>
+  <!-- EN: tailor -->
+  <DoBillsMakeApparel.verb>шить</DoBillsMakeApparel.verb>
+  <!-- EN: tailoring at -->
+  <DoBillsMakeApparel.gerund>шьёт на</DoBillsMakeApparel.gerund>
+</LanguageData>
